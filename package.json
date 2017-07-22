@@ -4,6 +4,7 @@
   "description": "",
   "main": "node_post.js",
   "scripts": {
+     "start": "node node_post.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
